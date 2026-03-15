@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(StellarSeaEngine)
+find_package(Vulkan REQUIRED)
+add_executable(StellarSeaEngine main.cpp)
+target_link_libraries(StellarSeaEngine Vulkan::Vulkan)
