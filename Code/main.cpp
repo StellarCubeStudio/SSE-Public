@@ -64,3 +64,10 @@ VkDevice createLogicalDevice(VkPhysicalDevice physicalDevice) {
     return device;
 }
 
+int main(int argc, char *argv[]){
+    VkInstance instance = createInstance();
+    VkPhysicalDevice physicalDevice = pickPhysicalDevice(instance);
+    VkDevice device = createLogicalDevice(physicalDevice);
+
+    return 0;
+}
