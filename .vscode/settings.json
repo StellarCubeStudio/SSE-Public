@@ -2,6 +2,12 @@
     "cmake.sourceDirectory": "D:/SSE-Public/Code",
     "cSpell.words": [
         "glfw",
-        "imgui"
+        "imgui",
+        "MSAA",
+        "pthread",
+        "raii",
+        "Subpasses",
+        "swapchain",
+        "XLIB"
     ]
 }
