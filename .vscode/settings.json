@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "D:/SSE-Public/Code",
+    "cmake.sourceDirectory": "D:/SSE-Public/src",
     "cSpell.words": [
         "glfw",
         "imgui",

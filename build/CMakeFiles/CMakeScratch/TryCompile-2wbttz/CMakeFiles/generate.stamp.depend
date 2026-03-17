@@ -1,0 +1,22 @@
+# CMake generation dependency list for this directory.
+D:/CMake/share/cmake-4.2/Modules/CMakeCXXInformation.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeCommonLanguageInclude.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeGenericSystem.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeInitializeConfigs.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeLanguageInformation.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeRCInformation.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInformation.cmake
+D:/CMake/share/cmake-4.2/Modules/CMakeSystemSpecificInitialize.cmake
+D:/CMake/share/cmake-4.2/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/CMake/share/cmake-4.2/Modules/Compiler/MSVC-CXX.cmake
+D:/CMake/share/cmake-4.2/Modules/Compiler/MSVC.cmake
+D:/CMake/share/cmake-4.2/Modules/Internal/HeaderpadWorkaround.cmake
+D:/CMake/share/cmake-4.2/Modules/Platform/Windows-Initialize.cmake
+D:/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/CMake/share/cmake-4.2/Modules/Platform/Windows-MSVC.cmake
+D:/CMake/share/cmake-4.2/Modules/Platform/Windows.cmake
+D:/CMake/share/cmake-4.2/Modules/Platform/WindowsPaths.cmake
+D:/SSE-Public/build/CMakeFiles/4.2.3/CMakeCXXCompiler.cmake
+D:/SSE-Public/build/CMakeFiles/4.2.3/CMakeRCCompiler.cmake
+D:/SSE-Public/build/CMakeFiles/4.2.3/CMakeSystem.cmake
+D:/SSE-Public/build/CMakeFiles/CMakeScratch/TryCompile-2wbttz/CMakeLists.txt
